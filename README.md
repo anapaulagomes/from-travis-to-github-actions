@@ -130,18 +130,16 @@ jobs:
 
 Open your Pull Request using the following format:
 
-```
-
 ## Title
 
 Travis
 
 ```
+# Travis' sintaxe
 ```
 
 Github Actions
 
 ```
-```
-
+# Github Actions' sintaxe
 ```
